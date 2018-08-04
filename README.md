@@ -1,1 +1,3 @@
 [Description for this practice](https://www.kaggle.com/c/digit-recognizer)
+## Clone this repository
+git clone git@github.com:llb549967391/digit_recoginizer.git
