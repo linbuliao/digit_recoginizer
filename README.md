@@ -6,5 +6,5 @@ git clone git@github.com:llb549967391/digit_recoginizer.git
 ```
 __HTTPS:__
 ```bash
-https://github.com/llb549967391/digit_recoginizer.git
+git clone https://github.com/llb549967391/digit_recoginizer.git
 ```
